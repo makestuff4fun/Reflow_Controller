@@ -1,1 +1,3 @@
-This is a very slightly modified Controleo2 code. I have added my specific oven config and added outputing current temperature over serial to show in graph form on a small LCD
+There is a very slightly modified Controleo2 code. I have added my specific oven config and added outputing current temperature over serial to show in graph form on a small LCD
+There is also now a fully working Controleo3 compatible PCB. I used an off the shelf project box so it will not fit (I don't think) the controleo3 project box.
+3D models included. 
